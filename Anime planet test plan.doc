@@ -1,0 +1,818 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#Q9R-76] Roshin&#39;s Final Solo Project Anime_Planet test plan</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://dmutah.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [Q9R-76]&nbsp;<a href="https://dmutah.atlassian.net/browse/Q9R-76">Roshin&#39;s Final Solo Project Anime_Planet test plan</a>
+            <span class="subText">
+               Created: 04/Jan/19                   &nbsp;Updated: 11/Jan/19
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Open</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://dmutah.atlassian.net/secure/BrowseProject.jspa?id=10194">QA9 Roshin</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Component/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix Version/s:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Test Plan
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                                            <a class="user-hover" rel="mroshinabraham" id="word_reporter_mroshinabraham" href="https://dmutah.atlassian.net/secure/ViewProfile.jspa?name=mroshinabraham">ROSHIN ABRAHAM</a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-20173-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original Estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Attachments:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://dmutah.atlassian.net/images/icons/attach/pdf.gif" height="16" width="16" border="0" alt="PDF File">
+                    Project summary report.pdf &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-90">
+                     Q9R-90                 </a>
+            </td>
+            <td>
+                The new users list does not display l...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-77">
+                     Q9R-77                 </a>
+            </td>
+            <td>
+                Home Page test suite
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-78">
+                     Q9R-78                 </a>
+            </td>
+            <td>
+                Anime page test suite
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-79">
+                     Q9R-79                 </a>
+            </td>
+            <td>
+                Manga Test suite
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-80">
+                     Q9R-80                 </a>
+            </td>
+            <td>
+                Characters test suite
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-81">
+                     Q9R-81                 </a>
+            </td>
+            <td>
+                Community Test suite
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-82">
+                     Q9R-82                 </a>
+            </td>
+            <td>
+                Account Management Test suite
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-83">
+                     Q9R-83                 </a>
+            </td>
+            <td>
+                Check the Sign up Functionality on th...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-87">
+                     Q9R-87                 </a>
+            </td>
+            <td>
+                To test the &quot;I love/hate this charact...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-88">
+                     Q9R-88                 </a>
+            </td>
+            <td>
+                Blinking text over I love/hate button...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-89">
+                     Q9R-89                 </a>
+            </td>
+            <td>
+                Test case to check the community home...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-91">
+                     Q9R-91                 </a>
+            </td>
+            <td>
+                To check  Browse manga functionality
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-92">
+                     Q9R-92                 </a>
+            </td>
+            <td>
+                Manga search filter is not clearing t...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-93">
+                     Q9R-93                 </a>
+            </td>
+            <td>
+                To test the edit profile functionalit...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-94">
+                     Q9R-94                 </a>
+            </td>
+            <td>
+                The &quot;Privacy and notification&quot;  and  ...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+                                        <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-86">
+                     Q9R-86                 </a>
+            </td>
+            <td>
+                The Newer than date picker UI gliches
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-84">
+                     Q9R-84                 </a>
+            </td>
+            <td>
+                The UI overlaps and bleeds out of the...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://dmutah.atlassian.net/browse/Q9R-85">
+                     Q9R-85                 </a>
+            </td>
+            <td>
+                To test the forums search functionali...
+            </td>
+            <td>
+                Open
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Epic Link:</b></td>
+                <td id="customfield_10008-20173-value" class="value" bgcolor="#ffffff" width="80%">
+    <a class="aui-label ghx-label-2" href="https://dmutah.atlassian.net/browse/Q9R-75">
+        Anime_Planet solo project
+    </a>
+</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Scope, Objectives, and Risks:</b></td>
+                <td id="customfield_10061-20173-value" class="value" bgcolor="#ffffff" width="80%">      <p><b>Scope:</b></p>
+<ul>
+	<li>This test plan will cover the testing of the full functionality of Anime-Planet- a site created by Anime fans to discover new anime, manga, track your progress and watch anime.</li>
+	<li>Testing will be done from an end-user perspective.</li>
+</ul>
+
+
+<p><b>Objectives:</b></p>
+<ul>
+	<li>To thoroughly test the website and all of its functionalities.</li>
+	<li>After through Manual Testing, steps will be taken to automate the testing for regression purposes.</li>
+</ul>
+
+
+<p><b>Risks:</b></p>
+
+<p>Project Risk: Devs and QAs with the insufficient domain knowledge.<br/>
+Mitigation: Have the supervisor(s) oversee my work when needed.<br/>
+Contingency: Keep updated on compliance and regulations</p>
+
+<p>Product Risk: No requirements document.<br/>
+Mitigation: Try to get one.<br/>
+Contingency: Make one yourself.</p>
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Overall Approach:</b></td>
+                <td id="customfield_10062-20173-value" class="value" bgcolor="#ffffff" width="80%">      <p>Our testing will be wholly requirements based, and manual. Will take steps to automate after the first round of manual testing.</p>
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Coordination of Test Activities:</b></td>
+                <td id="customfield_10063-20173-value" class="value" bgcolor="#ffffff" width="80%">      <p>We are testing after development; so efforts made now will be completely focused on stabilization.</p>
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>What, Who, How?:</b></td>
+                <td id="customfield_10064-20173-value" class="value" bgcolor="#ffffff" width="80%">      <p>The app to be tested can be accessed in its <a href="https://www.anime-planet.com/" class="external-link" rel="nofollow">environment</a>. Requirements will need to be pieced together from development tasks.</p>
+
+<ul>
+	<li>Does it work with the following browsers?
+	<ul>
+		<li>Chrome</li>
+		<li>Firefox</li>
+		<li>Internet Explorer</li>
+	</ul>
+	</li>
+</ul>
+
+
+<p><b>Home-page</b> 
+    <span class="jira-issue-macro" data-jira-key="Q9R-77" >
+                <a href="https://dmutah.atlassian.net/browse/Q9R-77" class="jira-issue-macro-key issue-link"  title="Home Page test suite" >
+            <img class="icon" src="https://dmutah.atlassian.net/secure/viewavatar?size=xsmall&avatarId=10321&avatarType=issuetype" />
+            Q9R-77
+        </a>
+                                                    <span class="aui-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-single-issue-export-pdf">Open</span>
+            </span>
+<br/>
+<em>Tabs on the screen:</em></p>
+<ul>
+	<li>Anime</li>
+	<li>Manga</li>
+	<li>Characters</li>
+	<li>Community</li>
+	<li>Search bar</li>
+	<li>Sign up</li>
+	<li>Log in</li>
+</ul>
+
+
+<p><em>Contents displayed on the page:</em></p>
+<ul>
+	<li>Watch anime online:
+	<ul>
+		<li>Watch now button navigates you to a watch list of popular dubbed and subbed anime.</li>
+	</ul>
+	</li>
+	<li>Popular anime this week:
+	<ul>
+		<li>Displays a list of most popular anime of the current week.</li>
+	</ul>
+	</li>
+	<li>Popular manga this week
+	<ul>
+		<li>Displays a list of the most popular manga of the current week.</li>
+	</ul>
+	</li>
+	<li>Newest anime recommendations:
+	<ul>
+		<li>Displays a list of most recent anime recommendations by site users.</li>
+	</ul>
+	</li>
+	<li>Winter 2019 anime:
+	<ul>
+		<li>Displays a list of current new anime releases.</li>
+	</ul>
+	</li>
+	<li>Newest manga recommendations:
+	<ul>
+		<li>Displays a list of most recent manga recommendations by site users.</li>
+	</ul>
+	</li>
+	<li>Bottom banner:
+	<ul>
+		<li>Site description</li>
+		<li>Contact info, About, Terms of use and Privacy policy</li>
+		<li>Follow links to facebook, twitter, discord chat and chat room for messaging.</li>
+		<li>Link to support the site and make donations.</li>
+		<li>Links to anime, manga, characters, community, watch anime online and anime season charts</li>
+	</ul>
+	</li>
+</ul>
+
+
+<p><b>Anime</b> 
+    <span class="jira-issue-macro" data-jira-key="Q9R-78" >
+                <a href="https://dmutah.atlassian.net/browse/Q9R-78" class="jira-issue-macro-key issue-link"  title="Anime page test suite" >
+            <img class="icon" src="https://dmutah.atlassian.net/secure/viewavatar?size=xsmall&avatarId=10321&avatarType=issuetype" />
+            Q9R-78
+        </a>
+                                                    <span class="aui-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-single-issue-export-pdf">Open</span>
+            </span>
+<br/>
+<em>List of tabs/links when the user hovers over the anime:</em></p>
+<ul>
+	<li>Anime season charts</li>
+	<li>Watch anime online</li>
+	<li>Anime recommendations</li>
+	<li>Browse all anime</li>
+	<li>Top anime list</li>
+</ul>
+
+
+<p><em>Contents of the page displayed as a <b>guest user</b>:</em></p>
+<ul>
+	<li>Popular this week</li>
+	<li>Winter anime 2019 /Current season and year</li>
+	<li>Watch anime online</li>
+	<li>Newest anime recommendations</li>
+	<li>Recently added anime</li>
+</ul>
+
+
+<p><em>Contents of the page displayed when the <b>user is logged in</b>:</em></p>
+<ul>
+	<li>Popular this week</li>
+	<li>Winter anime 2019 /Current season and year</li>
+	<li>Watch anime online</li>
+	<li>Anime suggestions for the logged in user based on watch history</li>
+	<li>Related anime you haven’t marked.</li>
+	<li>Newest anime recommendations</li>
+	<li>Recently added anime</li>
+</ul>
+
+
+
+<p><b>Manga</b> 
+    <span class="jira-issue-macro" data-jira-key="Q9R-79" >
+                <a href="https://dmutah.atlassian.net/browse/Q9R-79" class="jira-issue-macro-key issue-link"  title="Manga Test suite" >
+            <img class="icon" src="https://dmutah.atlassian.net/secure/viewavatar?size=xsmall&avatarId=10321&avatarType=issuetype" />
+            Q9R-79
+        </a>
+                                                    <span class="aui-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-single-issue-export-pdf">Open</span>
+            </span>
+<br/>
+<em>List of tabs/links when the user hovers over the manga:</em></p>
+<ul>
+	<li>Manga recommendations</li>
+	<li>Browse all manga</li>
+	<li>Top manga list</li>
+</ul>
+
+
+<p><em>Contents of the page displayed as a <b>guest user</b>:</em></p>
+<ul>
+	<li>Popular this week</li>
+	<li>Newest manga recommendations</li>
+	<li>Recently added manga</li>
+</ul>
+
+
+<p><em>Contents of the page displayed when the <b>user is logged in</b>:</em></p>
+<ul>
+	<li>Popular this week</li>
+	<li>Newest manga recommendations</li>
+	<li>Manga suggestions for the logged in user based on user read history</li>
+	<li>Related manga you haven’t marked.</li>
+	<li>Recently added manga</li>
+</ul>
+
+
+<p><b>Characters</b> 
+    <span class="jira-issue-macro" data-jira-key="Q9R-80" >
+                <a href="https://dmutah.atlassian.net/browse/Q9R-80" class="jira-issue-macro-key issue-link"  title="Characters test suite" >
+            <img class="icon" src="https://dmutah.atlassian.net/secure/viewavatar?size=xsmall&avatarId=10321&avatarType=issuetype" />
+            Q9R-80
+        </a>
+                                                    <span class="aui-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-single-issue-export-pdf">Open</span>
+            </span>
+<br/>
+<em>List of tabs/links when the user hovers over the characters:</em></p>
+<ul>
+	<li>Top loved characters</li>
+	<li>Top hated characters</li>
+	<li>Browse all characters</li>
+</ul>
+
+
+<p><b>Community</b> 
+    <span class="jira-issue-macro" data-jira-key="Q9R-81" >
+                <a href="https://dmutah.atlassian.net/browse/Q9R-81" class="jira-issue-macro-key issue-link"  title="Community Test suite" >
+            <img class="icon" src="https://dmutah.atlassian.net/secure/viewavatar?size=xsmall&avatarId=10321&avatarType=issuetype" />
+            Q9R-81
+        </a>
+                                                    <span class="aui-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-single-issue-export-pdf">Open</span>
+            </span>
+<br/>
+<em>List of tabs/links when the user hovers over the community:</em></p>
+<ul>
+	<li>Forum</li>
+	<li>Anime reviews</li>
+	<li>Manga reviews</li>
+	<li>Custom lists</li>
+	<li>Challenges</li>
+	<li>Site news</li>
+	<li>Discord chat</li>
+</ul>
+
+
+<p><b>Account Management</b> 
+    <span class="jira-issue-macro" data-jira-key="Q9R-82" >
+                <a href="https://dmutah.atlassian.net/browse/Q9R-82" class="jira-issue-macro-key issue-link"  title="Account Management Test suite" >
+            <img class="icon" src="https://dmutah.atlassian.net/secure/viewavatar?size=xsmall&avatarId=10321&avatarType=issuetype" />
+            Q9R-82
+        </a>
+                                                    <span class="aui-lozenge aui-lozenge-subtle aui-lozenge-complete jira-macro-single-issue-export-pdf">Open</span>
+            </span>
+<br/>
+<em>List of tabs/links when the user hovers over the user profile image:</em></p>
+<ul>
+	<li>Profile</li>
+	<li>My anime</li>
+	<li>My manga</li>
+	<li>Custom lists</li>
+	<li>Challenges</li>
+	<li>Forum</li>
+	<li>Discord chat</li>
+	<li>Settings</li>
+	<li>Logout</li>
+</ul>
+
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Schedule:</b></td>
+                <td id="customfield_10065-20173-value" class="value" bgcolor="#ffffff" width="80%">      <p><b>Entry Criteria</b></p>
+<ul>
+	<li>Environments set up</li>
+	<li>Scope for functionality identified</li>
+	<li>Budget received</li>
+	<li>All needed test data has been created.</li>
+	<li>100% of identified risks have been covered by test cases and there are plans in place for mitigation/contingencies.</li>
+</ul>
+
+
+<p><b>Exit Criteria</b></p>
+<ul>
+	<li>All test cases ran</li>
+	<li>High priority bugs fixed</li>
+	<li>QA portion of acceptance criteria tested</li>
+	<li>Approval from QA Lead</li>
+</ul>
+
+
+<p>Stakeholders will be kept appraised of progress towards exit criteria throughout the process.<br/>
+Once exit criteria are fully met and the application has been tested on site by the customer, we will move to test completion activities.</p>
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Monitoring and Control Metrics:</b></td>
+                <td id="customfield_10068-20173-value" class="value" bgcolor="#ffffff" width="80%">      <p>We will be tracking % of features passing testing, utilizing the features identified in "What, Who, How?"<br/>
+Other metrics to be tracked will be % change of tests passing in the various test cycles. Also, % of defects discovered in testing, vs defects discovered by a customer in the pilot.</p>
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Budget:</b></td>
+                <td id="customfield_10066-20173-value" class="value" bgcolor="#ffffff" width="80%">      <p>Freelance project.</p>
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Test Documentation Guidelines:</b></td>
+                <td id="customfield_10067-20173-value" class="value" bgcolor="#ffffff" width="80%">      <p>Stick to the Jira standard for documentation types, but we should cover 100% of the requirements, to report 100% of the defects found.</p>
+  </td>
+            </tr>
+            </table>
+
+
+Generated at Mon Jan 21 13:58:38 UTC 2019 by ROSHIN ABRAHAM using Jira 1001.0.0-SNAPSHOT#100098-sha1:26fb29dc8d23910a787f1d49066738e61adf0771.
+
+</body>
+</html>
